@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-product-card-built-with-tailwind-css-9JYAW0hZCG)
-- Live Site URL: [Add live site URL here](https://vercel.com/nitiema-s-projects/product-card-frontend-mentor-9bnf)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-product-card-built-with-tailwind-css-9JYAW0hZCG)
+- Live Site URL: [Vercel](https://vercel.com/nitiema-s-projects/product-card-frontend-mentor-9bnf)
 
 ## My Process
 
